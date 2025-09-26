@@ -1,4 +1,4 @@
-# Lab05: Visualización de Datos en Raspberry Pi con Node-RED 
+# Lab05: MQTT en Raspberry Pi + microcontrolador con Micropython
 
 ## Integrantes
 
